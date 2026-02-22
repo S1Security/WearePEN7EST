@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://owasp.org/Top10/2021/assets/TOP_10_logo_Final_Logo_Colour.png" alt="OWASPTOP10 Logo" width="990">
-</p>
+| ![](images/WEAREPEN7EST.png) |
+|:--:|
+|  | 
+
+
 
 
 #### Panduan Penetration Testing Web Application Daftar Kerentanan Berdasarkan Komponen Web/Aplikasi
@@ -10,9 +12,9 @@
 
 ---
 
-| ![](images/WEAREPEN7EST.png) |
-|:--:|
-|  | 
+<p align="center">
+  <img src="https://owasp.org/Top10/2021/assets/TOP_10_logo_Final_Logo_Colour.png" alt="OWASPTOP10 Logo" width="500">
+</p>
 
 ## DAFTAR ISI BERDASARKAN KOMPONEN
 
